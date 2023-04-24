@@ -4,7 +4,7 @@ package br.com.dev1risjc.envioEmail;
  *
  * @author rafael.albuquerque
  */
-public class teste {
+public class Main {
     public static void main(String[] args) {
         if (args.length != 6) {
             System.out.println("Quantidade de parâmetros inválida\n Exemplo: String host, String usuario, String senha, String destinatario, String assunto, String mensagem");
